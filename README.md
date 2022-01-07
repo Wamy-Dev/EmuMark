@@ -1,2 +1,3 @@
 # EmuMark
-Benchmark software for emulators, just rebranded from EmuBench!
+Benchmark software for emulators.
+No ETA
